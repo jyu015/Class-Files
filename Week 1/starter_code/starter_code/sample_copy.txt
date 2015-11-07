@@ -1,12 +1,12 @@
 
-Sample Content
+Sample Content!!!
 ——-
 
 ABOUT ME PAGE
 
 I ENJOY LIFE AS A DEVELOPER
 
-I'm Joe Johnson, a Developer based in NYC. I Have ten years of experience in the graphic design world, specializing in the creation of responsive websites.
+I'm Joshua Yu, a Developer based in NYC. I Have ten years of experience in the graphic design world, specializing in the creation of responsive websites.
 
 
 RESUME PAGE
